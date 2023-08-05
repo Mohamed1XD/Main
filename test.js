@@ -1,1 +1,1 @@
-
+alert("if y0u read that\n you are noobe")
